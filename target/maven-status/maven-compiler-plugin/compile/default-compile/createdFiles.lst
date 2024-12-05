@@ -1,0 +1,5 @@
+app\service\DeptService.class
+app\AppApplication.class
+app\api\controller\DeptAPIController.class
+app\repository\DeptRepository.class
+app\entity\Dept.class
